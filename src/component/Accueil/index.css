@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.section1{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: url("../Assets/audrey-mari-HvhinFxq4_s-unsplash.jpg");
+    background-size: cover;
+}
+.section1>img{
+    width: 30vw;
+    height: 30vh;
+    
+}
+.section1 h1{
+    color:white;
+    font-size: 200%;
+    text-align: center;
+    
+}
+.section1 h3{
+    color:white;
+    text-align: center;
+
+    
+}

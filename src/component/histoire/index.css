@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.section2{
+
+    width: 100vw;
+    height:35vh;
+    background: url("../Assets/couverts.jpeg");
+    background-size: cover;
+    padding-top: 10%;
+}
+.section2 h1{
+    
+    text-align: center;
+    justify-content: center;
+  
+}
+.section2 h3{
+    justify-content: center;
+    text-align:center;
+  
+}
